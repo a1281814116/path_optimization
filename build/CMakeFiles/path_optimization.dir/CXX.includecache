@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zsy/code/path_optimization/my_optimization.cpp
+iostream
+-
+json/value.h
+-
+vector
+-
+json/reader.h
+-
+nlohmann/json.hpp
+-
+iomanip
+-
+fstream
+-
+nlohmann/json.hpp
+-
+my_optimization.h
+/home/zsy/code/path_optimization/my_optimization.h
+
+/home/zsy/code/path_optimization/my_optimization.h
+iostream
+-
+
