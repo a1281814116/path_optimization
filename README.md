@@ -1,0 +1,2 @@
+# path_optimization
+将json文件中的路径点进行优化，保证识别率的同时进行数据压缩
