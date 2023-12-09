@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zsy/code/path_optimization/build",
+  "command": "/usr/bin/c++      -o CMakeFiles/path_optimization.dir/my_optimization.cpp.o -c /home/zsy/code/path_optimization/my_optimization.cpp",
+  "file": "/home/zsy/code/path_optimization/my_optimization.cpp"
+}
+]
