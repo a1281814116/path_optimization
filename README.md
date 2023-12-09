@@ -13,13 +13,15 @@
 
 - 从运行结果可以看出，在误差允许的范围内，对数据进行简化，可以大幅度删减无效数据。
 
-![](/home/zsy/xie.png)
+![xie](https://github.com/a1281814116/path_optimization/assets/49983301/a18ae059-d713-4fdf-bd4a-f160dee4373a)
+
 
 - 仿真图如下：（图1：未进行任何数据优化，规划出的路线；图2：进行数据优化后，规划出的路线）
+![1](https://github.com/a1281814116/path_optimization/assets/49983301/c5f54de1-351b-4eda-88ed-869a8a985b00)
 
-![](/home/zsy/1.jpg)
 
-![](/home/zsy/2.jpg)
+![2](https://github.com/a1281814116/path_optimization/assets/49983301/a439e8f5-5cdd-4a37-b521-b13e18397d02)
+
 
 ## 总结：
 
