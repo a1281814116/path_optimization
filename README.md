@@ -7,13 +7,23 @@
 
 - 最后对斜线进行优化，在误差允许的范围内，在保证精度的同时，降低数据量。
 
-  
+# 运行方法
+- 首先修改 my_optimization.cpp 中 init_json 方法里的json文件路径，之后依次执行下面的命令：
+```bash cd build
+cmake ..
+```
+```bash
+make
+```
+```bash
+./path_optimization
+```
 
-## 实验结果：
+## 实验结果（斜线为主的路径规划）：
 
 - 从运行结果可以看出，在误差允许的范围内，对数据进行简化，可以大幅度删减无效数据。
 
-![xie](https://github.com/a1281814116/path_optimization/assets/49983301/a18ae059-d713-4fdf-bd4a-f160dee4373a)
+ ![xie](https://github.com/a1281814116/path_optimization/assets/49983301/a18ae059-d713-4fdf-bd4a-f160dee4373a#pic_center)
 
 
 - 仿真图如下：（图1：未进行任何数据优化，规划出的路线；图2：进行数据优化后，规划出的路线）
